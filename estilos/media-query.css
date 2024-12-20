@@ -6,6 +6,10 @@
         background-image: linear-gradient(to top, #DAC291, #944D1B);
     }
 
+    main {
+        height: 100vh;
+    }
+
     section#login {
         width: 80vw;
         height: 300px;
@@ -27,6 +31,10 @@
 
     body {
         background-image: linear-gradient(to top, #DAC291, #944D1B);
+    }
+
+    main {
+        height: 100vh;
     }
 
     section#login {
